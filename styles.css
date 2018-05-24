@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana;
+  font-size:14px;
+}
+
+#container{
+   width: 400px;
+   border: 1px solid #ccc;
+   padding: 3px 15px;
+   margin: 10px auto;
+   box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.1);
+  background-image: url("https://static7.depositphotos.com/1106664/679/i/950/depositphotos_6798046-stock-photo-snow-background.jpg")
+}
+
+#container img{
+  width:95%;
+  padding: 10px;
+}
+
+#card{
+  border: 2px solid #000000;
+  padding: 8px;
+  background-color: white;
+}
+
+#interesting-fact {
+  font-style:italic; 
+}
+#facts-li{
+  font-weight:bold;
+  color: #000066;
+}
+
+li {
+  list-style-type: none;
+}
