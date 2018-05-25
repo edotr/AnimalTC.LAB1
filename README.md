@@ -1,2 +1,2 @@
-#Animal Trading Card Project for Udacity
+# Animal Trading Card Project for Udacity
 -Starter Project
